@@ -1,0 +1,11 @@
+.DS_STORE
+*.log
+*.log.*
+
+node_modules
+
+coverage
+.idea/
+dist/*
+!dist/index.html
+!dist/service-worker.js
